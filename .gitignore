@@ -1,0 +1,14 @@
+.idea
+.gradle
+/build
+/gradle
+gradlew
+gradlew.bat
+/app/app.iml
+local.properties
+
+app/build
+gradle.properties
+SimpleUIFrame.iml
+
+app/proguard-rules.pro
